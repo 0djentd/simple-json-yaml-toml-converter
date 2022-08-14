@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "simple-json-yaml-toml-converter"
-version = "0.1.0"
+version = "0.1.1"
 description = "Simple json/yaml/toml CLI converter."
 authors = ["0djentd"]
 readme = "README.md"

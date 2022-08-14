@@ -7,8 +7,17 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/0djentd/simple-json-yaml-toml-converter)
 ![GitHub Repo stars](https://img.shields.io/github/stars/0djentd/simple-json-yaml-toml-converter?style=social)
 
-[![Python package](https://github.com/0djentd/simple-json-yaml-toml-converter/actions/workflows/python-package.yml/badge.svg)](https://github.com/0djentd/simple-json-yaml-toml-converter/actions/workflows/python-package.yml)
-[![Pylint](https://github.com/0djentd/simple-json-yaml-toml-converter/actions/workflows/pylint.yml/badge.svg)](https://github.com/0djentd/simple-json-yaml-toml-converter/actions/workflows/pylint.yml)
-
-# Description
+# simple-json-yaml-toml-converter
+## Description
 Simple json/yaml/toml converter.
+
+## How to use
+```
+Usage: simple-json-yaml-toml-converter [OPTIONS] [INPUT_FILES]...
+
+Options:
+  -o, --output-format TEXT
+  --debug / --no-debug
+  -e, --encoding TEXT
+  --help                    Show this message and exit.
+```
