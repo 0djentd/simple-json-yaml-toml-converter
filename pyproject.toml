@@ -3,6 +3,9 @@ name = "simple-json-yaml-toml-converter"
 version = "0.1.0"
 description = "Simple json/yaml/toml CLI converter."
 authors = ["0djentd"]
+readme = "README.md"
+homepage = "https://github.com/0djentd/simple-json-yaml-toml-converter"
+repository = "https://github.com/0djentd/simple-json-yaml-toml-converter"
 
 [tool.poetry.scripts]
 simple-json-yaml-toml-converter = "simple_json_yaml_toml_converter.cli:command"
